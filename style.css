@@ -10,7 +10,7 @@ body{
     max-width:500px;
     align-items: center;
     border: solid;
-    margin: 40px auto;
+    margin: 60px auto;
     background-color:whitesmoke ;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(59, 59, 59, 0.1);
@@ -20,7 +20,7 @@ form{
     padding-right: 20px;
 }
 
-label{
+ label{
     display: block;
     margin-top: 5px;
     margin-bottom: 3px;
@@ -33,7 +33,7 @@ button{
     background-color: rgb(159, 159, 243);
     border: none;
 }
-#dispalyMessage{
+#displayMessage{
     margin-bottom: 10px;
 }
 .error{
@@ -42,10 +42,3 @@ button{
 .success{
     color: green;
 }
-/* form{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-gap: 1rem;
-} */
